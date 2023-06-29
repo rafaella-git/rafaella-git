@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi ⚡ 
+
+- 🔭 I’m currently working on modelling New Zealand's Energy system
+- 🌱 Improving my python and git skills one day at a time
+
 
 <!--
 **rafaella-git/rafaella-git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
