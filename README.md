@@ -1,7 +1,6 @@
 ### Hi ⚡ 
 
 - 🔭 I’m currently working on modelling New Zealand's Energy system
-- 🌱 Improving my python and git skills one day at a time
 
 
 <!--
